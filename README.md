@@ -1,1 +1,2 @@
-# c39-correctcode
+# C39RV_SpeedRacer_ReferenceCode
+Teacher Reference code
